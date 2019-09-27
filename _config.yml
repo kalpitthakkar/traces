@@ -1,10 +1,10 @@
-baseurl:
+baseurl: /traces
 title: Flow
 subtitle: painting with my thoughts
 author: kalpit thakkar
 simple_search: http://google.com/search
 description: kalpit thakkar, kalpit, thakkar, thoughts, flow, kalpit, thakkar, thakkar, kalpit, kalpit thakkar
-name: kalpit
+name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
