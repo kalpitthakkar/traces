@@ -1,10 +1,10 @@
 baseurl:
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+title: Flow
+subtitle: painting with my thoughts
+author: kalpit thakkar
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
+description: kalpit thakkar, kalpit, thakkar, thoughts, flow, kalpit, thakkar, thakkar, kalpit, kalpit thakkar
+name: kalpit
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
@@ -20,8 +20,3 @@ page:
 editor: gvim
 git:
   branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/clayh53.github.com/
