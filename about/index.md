@@ -1,4 +1,6 @@
 ---
 layout: full-width
-title: A testament to self-obsession
+title: About
 ---
+
+## A Testament To Self Obsession
